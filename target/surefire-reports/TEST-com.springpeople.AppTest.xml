@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.springpeople.AppTest" time="0.007" errors="0" skipped="0">
+  <properties>
+    <property name="DISPLAY" value=":0.0"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="CLUTTER_IM_MODULE" value="xim"/>
+    <property name="SELINUX_INIT" value="YES"/>
+    <property name="java.home" value="/usr/lib/jvm/java-8-oracle/jre"/>
+    <property name="XDG_GREETER_DATA_DIR" value="/var/lib/lightdm-data/braveendran"/>
+    <property name="LOGNAME" value="braveendran"/>
+    <property name="VTE_VERSION" value="3409"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="PWD" value="/home/braveendran/jenkins"/>
+    <property name="JENKINS_URL" value="http://192.168.248.133:8080/"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="GDMSESSION" value="xfce"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/endorsed"/>
+    <property name="XDG_SEAT_PATH" value="/org/freedesktop/DisplayManager/Seat0"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="GPG_AGENT_INFO" value="/run/user/1000/keyring-greM9x/gpg:0:1"/>
+    <property name="java.version" value="1.8.0_05"/>
+    <property name="TEXTDOMAIN" value="im-config"/>
+    <property name="JOB_NAME" value="fourthJenkins"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="XDG_DATA_DIRS" value="/usr/share/xfce:/usr/share/xfce4:/usr/local/share/:/usr/share/:/usr/share"/>
+    <property name="user.name" value="braveendran"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="XDG_RUNTIME_DIR" value="/run/user/1000"/>
+    <property name="UPSTART_JOB" value="startxfce4"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="GNOME_KEYRING_CONTROL" value="/run/user/1000/keyring-greM9x"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="path.separator" value=":"/>
+    <property name="WINDOWID" value="62914567"/>
+    <property name="BUILD_TAG" value="jenkins-fourthJenkins-2"/>
+    <property name="TERM" value="xterm"/>
+    <property name="GTK_MODULES" value="overlay-scrollbar"/>
+    <property name="MANDATORY_PATH" value="/usr/share/gconf/xfce.mandatory.path"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="PATH" value="/usr/lib/jvm/java-8-oracle//bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games"/>
+    <property name="DESKTOP_SESSION" value="xfce"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven31Main /home/braveendran/jenkins/maven /home/braveendran/.jenkins/war/WEB-INF/lib/remoting-2.50.jar /home/braveendran/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-interceptor-1.5.jar /home/braveendran/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.5.jar 39611"/>
+    <property name="HUDSON_URL" value="http://192.168.248.133:8080/"/>
+    <property name="XDG_CONFIG_DIRS" value="/etc/xdg/xdg-xfce:/usr/share/upstart/xdg:/etc/xdg:/etc/xdg"/>
+    <property name="JENKINS_SERVER_COOKIE" value="3780ca433488daff"/>
+    <property name="SESSIONTYPE" value=""/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="XDG_SESSION_PATH" value="/org/freedesktop/DisplayManager/Session0"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="user.language" value="en"/>
+    <property name="line.separator" value="
+"/>
+    <property name="COLORTERM" value="gnome-terminal"/>
+    <property name="BUILD_URL" value="http://192.168.248.133:8080/job/fourthJenkins/2/"/>
+    <property name="SSH_AGENT_PID" value="2065"/>
+    <property name="SHLVL" value="1"/>
+    <property name="M2_HOME" value="/home/braveendran/jenkins/maven"/>
+    <property name="USER" value="braveendran"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="UPSTART_EVENTS" value="started xsession"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_SERVER_COOKIE" value="3780ca433488daff"/>
+    <property name="UPSTART_SESSION" value="unix:abstract=/com/ubuntu/upstart-session/1000/1671"/>
+    <property name="MAVEN_HOME" value="/home/braveendran/jenkins/maven"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="SESSION_MANAGER" value="local/batty-ubuntu-vm:@/tmp/.ICE-unix/1922,unix/batty-ubuntu-vm:/tmp/.ICE-unix/1922"/>
+    <property name="DEFAULTS_PATH" value="/usr/share/gconf/xfce.default.path"/>
+    <property name="maven3.interceptor.common" value="/home/braveendran/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven3-interceptor-commons-1.5.jar"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="XAUTHORITY" value="/home/braveendran/.Xauthority"/>
+    <property name="XDG_MENU_PREFIX" value="xfce-"/>
+    <property name="XDG_CURRENT_DESKTOP" value="XFCE"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="maven3.interceptor" value="/home/braveendran/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-interceptor-1.5.jar"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/i386:/lib:/usr/lib"/>
+    <property name="QT_IM_MODULE" value="ibus"/>
+    <property name="POM_GROUPID" value="com.springpeople"/>
+    <property name="POM_ARTIFACTID" value="fourth"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="DBUS_SESSION_BUS_ADDRESS" value="unix:abstract=/tmp/dbus-pTbXrzzcwG"/>
+    <property name="JOB_URL" value="http://192.168.248.133:8080/job/fourthJenkins/"/>
+    <property name="UPSTART_INSTANCE" value=""/>
+    <property name="JENKINS_HOME" value="/home/braveendran/.jenkins"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/i386"/>
+    <property name="TEXTDOMAINDIR" value="/usr/share/locale/"/>
+    <property name="sun.management.compiler" value="HotSpot Tiered Compilers"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="POM_VERSION" value="1.1-SNAPSHOT"/>
+    <property name="GTK_IM_MODULE" value="ibus"/>
+    <property name="HUDSON_HOME" value="/home/braveendran/.jenkins"/>
+    <property name="PATH+MAVEN" value="/home/braveendran/jenkins/maven/bin"/>
+    <property name="OLDPWD" value="/var/lib/tomcat7/webapps/jenkins"/>
+    <property name="INSTANCE" value=""/>
+    <property name="QT_QPA_PLATFORMTHEME" value="appmenu-qt5"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="JAVA_HOME" value="/usr/lib/jvm/java-8-oracle/"/>
+    <property name="YAHOO_OPS" value="/home/braveendran/workplace/secops"/>
+    <property name="SHELL" value="/bin/bash"/>
+    <property name="SESSION" value="xfce"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-oracle/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="os.version" value="3.13.0-49-generic"/>
+    <property name="user.home" value="/home/braveendran"/>
+    <property name="_" value="/usr/bin/java"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="JOB" value="dbus"/>
+    <property name="IM_CONFIG_PHASE" value="1"/>
+    <property name="user.dir" value="/home/braveendran/jenkins/jenkinstraining/fourth"/>
+    <property name="GLADE_PIXMAP_PATH" value=":"/>
+    <property name="GDM_LANG" value="en_US"/>
+    <property name="XDG_VTNR" value="7"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vm.version" value="25.5-b02"/>
+    <property name="java.class.path" value="/home/braveendran/.jenkins/plugins/maven-plugin/WEB-INF/lib/maven31-agent-1.5.jar:/home/braveendran/jenkins/maven/boot/plexus-classworlds-2.5.2.jar:/home/braveendran/jenkins/maven/conf/logging"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="XDG_SEAT" value="seat0"/>
+    <property name="os.arch" value="i386"/>
+    <property name="WORKSPACE" value="/home/braveendran/jenkins/jenkinstraining/fourth"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="LANG" value="en_IN"/>
+    <property name="GNOME_KEYRING_PID" value="1841"/>
+    <property name="NSS_CVSDIR" value="null"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="file.separator" value="/"/>
+    <property name="LANGUAGE" value="en_IN:en"/>
+    <property name="java.runtime.version" value="1.8.0_05-b13"/>
+    <property name="XDG_SESSION_ID" value="c1"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes"/>
+    <property name="QT4_IM_MODULE" value="xim"/>
+    <property name="GLADE_MODULE_PATH" value=":"/>
+    <property name="PATH+JDK" value="/usr/lib/jvm/java-8-oracle//bin"/>
+    <property name="user.country" value="IN"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="maven.home" value="/home/braveendran/jenkins/maven"/>
+    <property name="XMODIFIERS" value="@im=ibus"/>
+    <property name="HOME" value="/home/braveendran"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="SSH_AUTH_SOCK" value="/tmp/ssh-u3xualCMzaxV/agent.2046"/>
+    <property name="GLADE_CATALOG_PATH" value=":"/>
+    <property name="POM_DISPLAYNAME" value="fourth"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="32"/>
+  </properties>
+  <testcase classname="com.springpeople.AppTest" name="testApp" time="0.007"/>
+</testsuite>
