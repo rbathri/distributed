@@ -1,2 +1,2 @@
-# fourth
-jenkins fourth repostiory
+# distributed
+jenkins distributed repostiory
